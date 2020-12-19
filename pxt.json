@@ -1,0 +1,22 @@
+{
+    "name": "receive",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motor": "github:dfrobot/pxt-motor#32a693485373e4606ee2d533e45d89ea1fae8bf5",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
